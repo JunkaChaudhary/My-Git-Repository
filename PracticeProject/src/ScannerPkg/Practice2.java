@@ -42,7 +42,7 @@ public class Practice2
 		int subResult2= obj1.sub(sumResult, x5);
 		int divResult= obj1.div(subResult2, x6);
 		
-		System.out.println("Final Result is: " + divResult);
+		System.out.println("Final Result is " + divResult);
 		}
 
 }
